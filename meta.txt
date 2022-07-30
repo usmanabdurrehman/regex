@@ -1,0 +1,17 @@
+Meta Charaters
+\d, \D    \w, \W
+\s, \S 
+Need to be escaped
+
+\d => Matches all digits 0-9
+\D => Matches everything except digits
+
+\w => Matches all word characters a-zA-Z0-9_
+\W => Matches everything except word characters
+
+\s => Matches all white spaces
+\S => Matches everything except white spaces
+
+Example
+You can contact us 021 980 9876. We are open 24/7 in all 5 working days.
+051 980 9855

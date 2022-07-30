@@ -1,0 +1,25 @@
+. => Matches everything
+
+\d => Matches all digits 0-9
+\D => Matches everything except digits
+\w => Matches all word characters a-zA-Z0-9_
+\W => Matches everything except word characters
+\s => Matches all white spaces
+\S => Matches everything except white spaces
+\b => Matches all word boundaries
+\B => Matches everything except word boundaries
+
+^   Matches start of a string
+$   Matches end of a string
+\b => Matches all word boundaries
+\B => Matches everything except word boundaries
+
+a?      zero or one of a
+a*      zero or more of a
+a+      one of more of a
+a{3}    exactly 3 as
+a{3,}   3 or more as
+a{3,6}  In between 3 and 6 as
+
+[]      Define a character class
+()      Define a capture group

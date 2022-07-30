@@ -1,0 +1,20 @@
+Quantifier Characters
+a?      zero or one of a
+a*      zero or more of a
+a+      one or more of a
+a{3}    exactly 3 as
+a{3,}   3 or more as
+a{3,6}  In between 3 and 6 as
+
+
+Example
+        345
+    +  6345
+    +    76
+    -------
+    =  4392
+
+Today is a wonderful day. The temperature is ranging from colouuuuuuuuur
+10C to 20C. My favourite color is white but his favorite colour is red.
+
+021 345 3453

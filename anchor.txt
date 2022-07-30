@@ -1,0 +1,17 @@
+Anchor Characters
+^   Matches start of a string
+$   Matches end of a string
+\b => Matches all word boundaries
+\B => Matches everything except word boundaries
+
+You can contact us at (021) 980 9867. We are open 24/7 in all 5 working days.
+
+David goes to school. David attained first position in spelling bee
+There  are a lot of bee in this hive
+
+a-zA-Z0-9_
+
+\w
+
+345
+2345

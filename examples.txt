@@ -1,0 +1,19 @@
+// Phone Example
+
+(021) 980 9867
++(051) 980 9867
+
+// Website URL Example
+
+https://www.google.com
+http://en.wikipedia.org
+
+// Code Example
+
+class Rectangle {
+  constructor(height, width, size) {
+    this.height = height;
+    this.width = width;
+    this.size = size
+  }
+}
